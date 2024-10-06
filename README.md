@@ -1,2 +1,2 @@
-# Attendance-Management
-Attendance-Management web application
+# Student-Attendance-Management-System
+Student Attendance Management System using html css js
